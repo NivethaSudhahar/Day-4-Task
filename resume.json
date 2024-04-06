@@ -1,0 +1,40 @@
+{
+    "name": "Nivetha",
+    "contact": {
+      "email": "nivetha@gmail.com",
+      "phone": "+91 9876543210",
+      "address": "123 Main Street, Nagercoil"
+    },
+    "summary": "Experienced software engineer with a passion for creating efficient and scalable solutions.",
+    "experience": [
+      {
+        "title": "Software Engineer",
+        "company": "Tech Corp",
+        "location": "Chennai",
+        "dates": "January 2021 - Present",
+        "responsibilities": [
+          "Led a team of developers in building a new web application from scratch.",
+          "Designed and implemented backend systems using Node.js and MongoDB.",
+          "Optimized database queries resulting in a 30% reduction in response time."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "Anna University",
+        "location": "Chennai",
+        "dates": "2020 - 2024"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "Java",
+      "Spring Boot",
+      "MongoDB",
+      "RESTful APIs",
+      "Agile Methodologies"
+    ]
+  }
+  
